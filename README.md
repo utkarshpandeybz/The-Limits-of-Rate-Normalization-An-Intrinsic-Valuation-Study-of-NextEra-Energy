@@ -1,1 +1,2 @@
-# The-Limits-of-Rate-Normalization-An-Intrinsic-Valuation-Study-of-NextEra-Energy
+Academic equity research valuation model for NextEra Energy.
+For educational purposes only.
